@@ -5,3 +5,5 @@
 
 ## Parameter
 Just enter the number of philosophers you want on the table.
+
+> Threads are used for concurrent process management.
